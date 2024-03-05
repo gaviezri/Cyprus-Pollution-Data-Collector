@@ -1,0 +1,1 @@
+{"target": "https://www.airquality.dli.mlsi.gov.cy/all_stations_data_range_PM", "stations": ["station_1"], "pollutant_id": ["1", "5", "9", "10", "6001"], "report_path": "", "email_targets": ["abc@email.com"]}
